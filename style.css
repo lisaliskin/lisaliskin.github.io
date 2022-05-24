@@ -1,0 +1,35 @@
+.logo {
+  margin: 0 auto;
+  width: 80px;
+  height: 80px;
+  display: inline-block;
+  margin: 0 0.5rem;
+  animation: fadeInLeftBig; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 1s;
+}
+body {
+  color: rgb(92, 79, 107);
+  font-family: 'Courier New', Courier, monospace;
+  background: rgb(228,212,219);
+  background: linear-gradient(90deg, rgba(228,212,219,0.3075221238938053) 0%, rgba(201,148,233,0.8053097345132744) 100%);
+}
+.pictures {
+  width: 100%;
+  margin-left: 0px;
+}
+body {
+  text-align: center;
+  color: deeppink;
+}
+table {
+  max-width: 100%;
+  width: 300px; /* Ширина таблицы */
+  margin: auto;
+ }
+ td {
+  max-width: 100%;
+  text-align: center; 
+ }
+.describtion {
+  margin-inline: 40px;
+}
