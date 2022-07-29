@@ -1,3 +1,3 @@
 # personal card website
 
-lisaliskin.github.io
+[lisaliskin.github.io]
